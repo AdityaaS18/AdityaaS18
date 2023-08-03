@@ -1,7 +1,7 @@
 ![Masterhead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Aditya Narayan Sahu</h1>
 <h3 align="center">I am currently persuading B.Tech CSE at ITER, SOA University.</h3>
-<img align="right" alt="coding" width="400" src="[https://www.freepik.com/free-photos-vectors/cartoon-developer](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **making myself proficient in coding**
 
